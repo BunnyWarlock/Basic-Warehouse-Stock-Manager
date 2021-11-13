@@ -3,7 +3,7 @@ Project Report
 Warehouse Stock Manager (WSM)
 
 Synopsis:
-	This "Readme" is the basicallt the project report i sent with my program. Hope it serves as a synopsis. This program contains all of the basic functions that are needed in a warehouse stock management system. The program is divided into 6 main parts:
+	This "Readme" is the basically the project report I sent with my program. It should serves as a good synopsis. This program contains all of the basic functions that are needed in a warehouse stock management system. The program is divided into 6 main parts:
   
 The User Interface (UI) :- The UI has been carefully crafted to make it as easy for the user to use the program and use it to its full capacity. Most of the code is dedicated to the UI. It is also made to be as beautiful as possible.
 
