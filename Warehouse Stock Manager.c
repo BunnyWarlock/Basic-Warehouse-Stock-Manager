@@ -514,5 +514,5 @@ int preset5(const item_info current_inventory[], int total_items){
             show_list(current_inventory, lower, upper, 0);
 
     }
-
+    return 0;
 }
